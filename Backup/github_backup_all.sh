@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Define the directory that contains your Git projects
+root_dir=<directory-containing-your-git-projects>
+cd $root_dir
+
 # Define your GitHub username
 username=<your-github-username>
 
